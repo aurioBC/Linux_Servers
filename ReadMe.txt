@@ -12,3 +12,5 @@ to acknowledge the request.
 
 The purpose of this is to stress test each server design to determine their
 efficiency and max performance in order to compare results.
+
+Please read the Design Doc for further details.
